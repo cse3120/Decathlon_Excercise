@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<output>
+    <athlete>
+        <name>John Smith</name>
+        <position>1</position>
+        <totalScore>4200.00</totalScore>
+        <event>
+            <name>100 Meters</name>
+            <result>12.61</result>
+            <score>536</score>
+        </event>
+        <event>
+            <name>Long Jump</name>
+            <result>5.00</result>
+            <score>382</score>
+        </event>
+        <event>
+            <name>Shot Put</name>
+            <result>9.22</result>
+            <score>439</score>
+        </event>
+        <event>
+            <name>High Jump</name>
+            <result>1.50</result>
+            <score>389</score>
+        </event>
+        <event>
+            <name>400 mts</name>
+            <result>60.39</result>
+            <score>400</score>
+        </event>
+        <event>
+            <name>Hurdles 110 mts</name>
+            <result>16.43</result>
+            <score>685</score>
+        </event>
+        <event>
+            <name>Discus Throw</name>
+            <result>21.60</result>
+            <score>302</score>
+        </event>
+        <event>
+            <name>Pole Vault</name>
+            <result>2.60</result>
+            <score>264</score>
+        </event>
+        <event>
+            <name>Javalin Throw</name>
+            <result>35.81</result>
+            <score>382</score>
+        </event>
+        <event>
+            <name>1500 mts</name>
+            <result>5:25.72 </result>
+            <score>421</score>
+        </event>
+    </athlete>
+    <athlete>
+        <name>Jaan Lepp</name>
+        <position>2</position>
+        <totalScore>3494.00</totalScore>
+        <event>
+            <name>100 Meters</name>
+            <result>13.75</result>
+            <score>348</score>
+        </event>
+        <event>
+            <name>Long Jump</name>
+            <result>4.84</result>
+            <score>352</score>
+        </event>
+        <event>
+            <name>Shot Put</name>
+            <result>10.12</result>
+            <score>493</score>
+        </event>
+        <event>
+            <name>High Jump</name>
+            <result>1.50</result>
+            <score>389</score>
+        </event>
+        <event>
+            <name>400 mts</name>
+            <result>68.44</result>
+            <score>172</score>
+        </event>
+        <event>
+            <name>Hurdles 110 mts</name>
+            <result>19.18</result>
+            <score>417</score>
+        </event>
+        <event>
+            <name>Discus Throw</name>
+            <result>30.85</result>
+            <score>481</score>
+        </event>
+        <event>
+            <name>Pole Vault</name>
+            <result>2.80</result>
+            <score>309</score>
+        </event>
+        <event>
+            <name>Javalin Throw</name>
+            <result>33.88</result>
+            <score>354</score>
+        </event>
+        <event>
+            <name>1500 mts</name>
+            <result>6:22.75 </result>
+            <score>179</score>
+        </event>
+    </athlete>
+    <athlete>
+        <name>Jane Doe</name>
+        <position>3</position>
+        <totalScore>3199.00</totalScore>
+        <event>
+            <name>100 Meters</name>
+            <result>13.04</result>
+            <score>461</score>
+        </event>
+        <event>
+            <name>Long Jump</name>
+            <result>4.53</result>
+            <score>295</score>
+        </event>
+        <event>
+            <name>Shot Put</name>
+            <result>7.79</result>
+            <score>354</score>
+        </event>
+        <event>
+            <name>High Jump</name>
+            <result>1.55</result>
+            <score>426</score>
+        </event>
+        <event>
+            <name>400 mts</name>
+            <result>64.72</result>
+            <score>267</score>
+        </event>
+        <event>
+            <name>Hurdles 110 mts</name>
+            <result>18.74</result>
+            <score>455</score>
+        </event>
+        <event>
+            <name>Discus Throw</name>
+            <result>24.20</result>
+            <score>352</score>
+        </event>
+        <event>
+            <name>Pole Vault</name>
+            <result>2.40</result>
+            <score>220</score>
+        </event>
+        <event>
+            <name>Javalin Throw</name>
+            <result>28.20</result>
+            <score>274</score>
+        </event>
+        <event>
+            <name>1500 mts</name>
+            <result>6:50.76 </result>
+            <score>95</score>
+        </event>
+    </athlete>
+    <athlete>
+        <name>Foo Bar</name>
+        <position>4</position>
+        <totalScore>3099.00</totalScore>
+        <event>
+            <name>100 Meters</name>
+            <result>13.43</result>
+            <score>397</score>
+        </event>
+        <event>
+            <name>Long Jump</name>
+            <result>4.35</result>
+            <score>264</score>
+        </event>
+        <event>
+            <name>Shot Put</name>
+            <result>8.64</result>
+            <score>404</score>
+        </event>
+        <event>
+            <name>High Jump</name>
+            <result>1.50</result>
+            <score>389</score>
+        </event>
+        <event>
+            <name>400 mts</name>
+            <result>66.06</result>
+            <score>230</score>
+        </event>
+        <event>
+            <name>Hurdles 110 mts</name>
+            <result>19.05</result>
+            <score>428</score>
+        </event>
+        <event>
+            <name>Discus Throw</name>
+            <result>24.89</result>
+            <score>365</score>
+        </event>
+        <event>
+            <name>Pole Vault</name>
+            <result>2.20</result>
+            <score>179</score>
+        </event>
+        <event>
+            <name>Javalin Throw</name>
+            <result>33.48</result>
+            <score>348</score>
+        </event>
+        <event>
+            <name>1500 mts</name>
+            <result>6:51.01</result>
+            <score>95</score>
+        </event>
+    </athlete>
+</output>
